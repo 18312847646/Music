@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dark -->
+    <integer-array name="dark">
+        <item>@color/dark_darker</item>
+        <item>@color/dark_dark</item>
+        <item>@color/dark_primary</item>
+        <item>@color/dark_light</item>
+    </integer-array>
+    <color name="dark_darker">#050505</color>
+    <color name="dark_dark">#202020</color>
+    <color name="dark_primary">#454545</color>
+    <color name="dark_light">#a3a3a3</color>
+    
+    <color name="white">#00ffffff</color>
+</resources>
